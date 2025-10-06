@@ -1,0 +1,12 @@
+{
+    "display_name": "{idle_duration_skip:1-4}",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "",
+    "author": "someone",
+    "version": "1.0.0",
+    "homePage": "https://github.com/paken2/SillyTavern-idle_duration_skip",
+    "auto_update": false
+}
